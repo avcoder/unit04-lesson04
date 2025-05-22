@@ -85,7 +85,7 @@ transition: slide-left
 
 # Exercise: Show Alerts via connect-flash
 
-- Goal: modify the code to show success and error messages where appropriate.  Use bootstrap Alert component to do so and modify any ejs pages to display them.
+- Goal: modify the code to show success and error messages where appropriate.  Use bootstrap [Alert component](https://getbootstrap.com/docs/5.3/components/alerts/) to do so and modify any ejs pages to display them.
 
 - in app.js:
   ```js
