@@ -43,7 +43,15 @@ transition: slide-left
 - last we left off, we were building functionality to upload images
 - Q: For mid-term, can I do a [whatever] app instead of a note-taking app
 - A: It can only be a note-taking app.
-- Lab next week Wed.
+- Lab next week Wed. Add a new tech to your resume by doing the "Getting Started" Docs from:
+  - [Socket io](https://socket.io/get-started/chat)
+  - [Stripe](https://docs.stripe.com/get-started/development-environment)
+  - [Nest JS](https://docs.nestjs.com/first-steps)
+  - [Netlify Serverless Functions](https://docs.netlify.com/functions/get-started/?fn-language=js)
+  - [GraphQL](https://graphql.org/graphql-js/)
+  - [Jest](https://jestjs.io/docs/getting-started)
+  - [Playwright](https://playwright.dev/docs/intro)
+
 
 ---
 transition: slide-left
