@@ -18,7 +18,7 @@ mdc: true
 
 # Full-Stack Development
 
-Full-Stack Development - part 3/8
+Full-Stack Development - part 4/8
 
 - [ ] Finish upload image functionality
 - [ ] Showing Alerts/Messages
