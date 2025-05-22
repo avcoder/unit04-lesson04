@@ -45,7 +45,7 @@ transition: slide-left
 - A: It can only be a note-taking app.
 - Lab next week Wed. Add a new tech to your resume by doing the "Getting Started" Docs from:
   - [Socket io](https://socket.io/get-started/chat)
-  - [Stripe](https://docs.stripe.com/get-started/development-environment)
+  - [Snipcart](https://docs.snipcart.com/v3/)
   - [Nest JS](https://docs.nestjs.com/first-steps)
   - [Netlify Serverless Functions](https://docs.netlify.com/functions/get-started/?fn-language=js)
   - [GraphQL](https://graphql.org/graphql-js/)
