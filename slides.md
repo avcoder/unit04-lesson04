@@ -123,6 +123,8 @@ transition: slide-left
 - adjust our addTruck form and editTruck form to include location
 - add autocomplete functionality for address
 - add slug page
+- make static google map based off our lat/lng
+- ensure slug is unique
 
 ---
 transition: slide-left
