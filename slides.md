@@ -119,6 +119,7 @@ transition: slide-left
 - We need to adjust our schema to include location etc.
 - let's move our choices to truckController as a const
 - adjust our addTruck form and editTruck form to include location
+- add autocomplete functionality for address
 
 ---
 transition: slide-left
