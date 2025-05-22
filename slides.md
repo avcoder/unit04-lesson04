@@ -87,8 +87,8 @@ transition: slide-left
 ---
 layout: image-right
 transition: slide-left
-image: /assets/cj.png
-backgroundSize: 400px 300px
+image: /assets/matt.png
+backgroundSize: 400px 320px
 class: text-left
 ---
 
@@ -96,10 +96,10 @@ class: text-left
 
 🍦 Cool Tips, Trends and Resources:
 
-- 💾 [Local First](https://www.inkandswitch.com/essay/local-first/)
-- 😱 [Serverless Horrors](https://serverlesshorrors.com/)
-- 🩳 [Overview of middleware](https://x.com/syntaxfm/status/1772350906698256578)
-- 👖 [Pocketbase](https://pocketbase.io/)
+- 🧼 [Background Removal Tool](https://huggingface.co/spaces/Xenova/remove-background-web)
+- 🎒 [Self-hosted Apps](https://selfhosted.libhunt.com/)
+- 😵‍💫 [Brutalist Report](https://brutalist.report/)
+- 📝 [Markdown Notes](https://github.com/orgs/community/discussions/16925)
 
 <br>
 <hr>
