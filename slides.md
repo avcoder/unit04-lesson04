@@ -78,6 +78,13 @@ transition: slide-left
   - pass in a type of message, and an actual message
   - connect-flash will then stick that info in the next request object (via sessions)
   - That info will then clean up after itself after that 1st request
+  
+---
+transition: slide-left
+---
+
+# Exercise: Show Alerts via connect-flash
+
 - in app.js:
   ```js
   import flash from "connect-flash";
