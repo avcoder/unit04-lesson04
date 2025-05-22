@@ -21,8 +21,8 @@ mdc: true
 Full-Stack Development - part 3/8
 
 - [ ] Finish upload image functionality
-- [ ] Showing Alerts
-- [ ] Saving Coordinates "Points" 
+- [ ] Showing Alerts/Messages
+- [ ] Integrating Google Maps with lat/lng
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
