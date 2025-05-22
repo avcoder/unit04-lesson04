@@ -41,6 +41,8 @@ transition: slide-left
 
 - Foodtruck template Repo: https://github.com/avcoder/foodtruck-template
 - last we left off, we were building functionality to upload images
+- Q: For mid-term, can I do a [whatever] app instead of a note-taking app
+- A: It can only be a note-taking app.
 
 ---
 transition: slide-left
