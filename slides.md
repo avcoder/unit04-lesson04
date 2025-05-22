@@ -122,6 +122,7 @@ transition: slide-left
 - let's move our choices to truckController as a const
 - adjust our addTruck form and editTruck form to include location
 - add autocomplete functionality for address
+- add slug page
 
 ---
 transition: slide-left
