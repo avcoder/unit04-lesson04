@@ -110,6 +110,15 @@ class: text-left
 - take attendance
 -->
 
+---
+transition: slide-left
+---
+
+# Show a google map based off lat/lng coordinates
+
+- We need to adjust our schema to include location etc.
+- let's move our choices to truckController as a const
+- adjust our addTruck form and editTruck form to include location
 
 ---
 transition: slide-left
