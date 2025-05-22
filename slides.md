@@ -130,6 +130,16 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Create tags page
+
+- create `getTags` route
+- add `.getAllTags()` method to Truck schema
+- make clicking each tag filter and display corresponding food trucks with tag
+
+---
+transition: slide-left
+---
+
 # Homework
 
 - Start working on your midterm note-taking app
