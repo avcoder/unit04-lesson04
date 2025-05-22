@@ -59,7 +59,7 @@ Add upload photo functionality
 transition: slide-left
 ---
 
-# Set up connect-flash
+# Show Alerts via connect-flash
 
 - connect-flash is used to show success messages, error messages, info etc.
 - How does it work?
